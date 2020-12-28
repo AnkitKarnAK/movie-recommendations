@@ -21,10 +21,10 @@ button {
   margin: 1.5rem;
   padding: 0.5rem 1rem;
   border-radius: 0.3rem;
-  border-style: none;
+  /* border-style; */
   font-size: 1rem;
   font-family: inherit;
-  box-shadow: 0.3rem 0.3rem var(--gray);
+  /* box-shadow: 0.3rem 0.3rem var(--gray); */
 }
 
 ul {
